@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QMainWindow , QApplication , QMessageBox , QFileDialog
+from PyQt5.QtWidgets import QMainWindow , QApplication , QMessageBox , QFileDialog,
 from PyQt5.QtCore import  Qt
 import sys , webbrowser , os
 from os.path import exists
